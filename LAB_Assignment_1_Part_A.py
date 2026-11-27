@@ -23,5 +23,3 @@ def bfs(start):
 print("\nBFS Traversal:")
 bfs(start)
 
-
-#BFS HOGAYA
